@@ -3,9 +3,6 @@
 A Flutter app that helps users discover tourist attractions in Egypt.
 Users can create an account, log in, browse attractions, and save their favorites to the cloud.
 
-## Live Demo
-
-https://tourism-guide-34f7d.web.app
 
 ## Screenshots
 
